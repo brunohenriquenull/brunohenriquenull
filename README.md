@@ -1,16 +1,20 @@
-## Hi there 👋
+# Bruno Henrique
 
-<!--
-**brunohenriquenull/brunohenriquenull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente no 3º período.
+Trabalho com suporte técnico de ERPs.
 
-Here are some ideas to get you started:
+Estou no início da minha transição para a área de desenvolvimento, construindo base técnica com foco em lógica e resolução de problemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- Python (básico)
+- SQL (básico)
+
+## Atualmente
+
+- Aprendendo e praticando lógica de programação com Python
+- Construindo meu portfólio do zero
+
+## Contato
+
+- 📧 brunohenrique.null@gmail.com
